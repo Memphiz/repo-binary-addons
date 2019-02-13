@@ -1,1 +1,1 @@
-game.libretro.dosbox https://github.com/kodi-game/game.libretro.dosbox master
+game.libretro.dosbox https://github.com/Memphiz/game.libretro.dosbox fix_compile
